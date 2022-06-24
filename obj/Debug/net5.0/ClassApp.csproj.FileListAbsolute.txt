@@ -1,0 +1,16 @@
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.csproj.AssemblyReference.cache
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.AssemblyInfoInputs.cache
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.AssemblyInfo.cs
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.exe
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.deps.json
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.runtimeconfig.json
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.runtimeconfig.dev.json
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.dll
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ref\ClassApp.dll
+C:\Users\Adebunmi\desktop\ClassApp\bin\Debug\net5.0\ClassApp.pdb
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.dll
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ref\ClassApp.dll
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.pdb
+C:\Users\Adebunmi\desktop\ClassApp\obj\Debug\net5.0\ClassApp.genruntimeconfig.cache
